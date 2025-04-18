@@ -1,3 +1,4 @@
+#Trigger Test
 name: Build and Push Frontend to Docker Hub
 
 on:
